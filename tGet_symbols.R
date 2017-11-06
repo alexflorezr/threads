@@ -1,0 +1,1 @@
+# detect if there is any symbols, brands etc 
