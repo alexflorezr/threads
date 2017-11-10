@@ -1,0 +1,21 @@
+---
+title: "README_Threads"
+author: "Alexander Florez Rodriguez"
+date: "11/10/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Threads -- Menswear analytical tools
+
+## Fashion week
+Fashion week shows can be used as data source to forecast trends in the upcoming seasons. For every designer is possible to obtain the show looks from:
+
+* Vogue.com
+* Bussiness of Fashion
+* TAGWALK
+
+I will start with TAGWALK because it can provide tags that define traits in the outfits.
